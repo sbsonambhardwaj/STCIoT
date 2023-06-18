@@ -1,7 +1,7 @@
 # STCIoT
-Contains Dataset for Short Term course
+Contains Dataset for Short Term Course
 
-Description Of Anomaly detection dataset
+# Description Of Anomaly detection dataset
 Most machine learning (ML) proposals in the Internet of Things (IoT) space are designed and evaluated on pre-processed datasets, where the data acquisition and cleaning steps are often considered a black box. Therefore, the data acquisition stage requires additional data cleaning/anomaly techniques, which translate to additional resources, energy, and storage. We propose to carry out such techniques not in the cloud servers and closer to the data source, on the IoT device itself. Consequently, this application defines three anomaly detection steps using smoothing filters, unsupervised learning, and deep learning techniques (hybrid model) to detect the different variations of anomalies, focusing on a small computational/memory footprint.
 
 DATASET: 
