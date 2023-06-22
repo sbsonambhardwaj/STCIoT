@@ -13,3 +13,8 @@ Noise: The sensor's signal is discretized/digitalized to be understandable to th
 Outlier detection: These methods are in charge of detecting data with a different distribution than the rest. This process is carried out through an unsupervised analysis.
 
 Tamper detection: In some scenarios, the information acquired by the IoT device can be compromised by malicious users trying to steal or modify data. tamper detection techniques require knowing all the manipulation possibilities to detect them, which needs supervised learning.
+
+# NF-Ton-IoT-v2
+NF-ToN-IoT-V2 is the extended NetFlow version of NF-ToN-IoT. Compared to the original NF-NIDS datasets, the feature set of NetFlow features has expanded from 8 to 43.
+
+This is one dataset in the NFV2-collection by the university of Queensland aimed at standardizing network-security datasets to achieve interoperability and larger analyses.
