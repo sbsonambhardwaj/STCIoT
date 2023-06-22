@@ -18,3 +18,41 @@ Tamper detection: In some scenarios, the information acquired by the IoT device 
 NF-ToN-IoT-V2 is the extended NetFlow version of NF-ToN-IoT. Compared to the original NF-NIDS datasets, the feature set of NetFlow features has expanded from 8 to 43.
 
 This is one dataset in the NFV2-collection by the university of Queensland aimed at standardizing network-security datasets to achieve interoperability and larger analyses.
+
+# Dataset Final csv file for Anomaly Detection
+Grove sensors:
+
+Grove - Temperature&Humidity Sensor (High-Accuracy &Mini) v1.0
+Grove - Light Sensor
+Grove - Loudness Sensor
+Grove - Air Quality Sensor v1.3
+Digi XBee 3 Zigbee 3 RF Module
+Grove - UART Wifi V2
+Microcontollers:
+
+Arduino Nano 33 BLE Sense
+Raspberry Pi Pico
+Arduino Nano RP2040 Connect
+Shields:
+
+Grove - Bee Socket
+Grove Shield for Pi Pico V1.0
+Arduino Tiny Machine Learning Shield
+Single-board computer:
+
+Raspberry Pi 4 Model B
+Software tools:
+
+Putty
+Raspberry Pi Imager
+Node-RED
+Arduino IDE 1.8.15
+Visual Studio Code
+Google Colab
+How to generate a dataset via Grove sensors and Arduino is explained here.
+
+We created anomalies at the following time intervals:
+
+18:21:46 - 19:37:16 (first day)
+02:26:36 - 04:15:56 (second day)
+08:54:46 - 10:45:36 (second day)
